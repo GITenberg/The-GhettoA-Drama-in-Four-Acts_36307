@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9057
     wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36307#The-GhettoA-Drama-in-Four-Acts
 gutenberg_issued: '2011-06-02'
 gutenberg_type: Text
 identifiers:
