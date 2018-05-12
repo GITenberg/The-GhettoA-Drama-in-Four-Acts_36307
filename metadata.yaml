@@ -1,0 +1,43 @@
+_repo: The-GhettoA-Drama-in-Four-Acts_36307
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Fernald, Chester Bailey
+    aliases:
+    - Fernald, Chester B. (Chester Bailey)
+    - Fernald, C. B. (Chester Bailey)
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '43786'
+    url: http://www.gutenberg.org/2009/agents/43786
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heijermans, Herman
+    aliases:
+    - Sperber, Heinz
+    - Falkland, Samuel
+    - Heyermans, Herman
+    birthdate: 1864
+    deathdate: 1924
+    gutenberg_agent_id: '9057'
+    url: http://www.gutenberg.org/2009/agents/9057
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
+description: ''
+gutenberg_issued: '2011-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Drama'
+- !lcc 'PT'
+- !lcsh 'Dutch drama -- Translations into English'
+- !lcsh 'Religious drama'
+title: 'The Ghetto: A Drama in Four Acts'
+url: http://www.gutenberg.org/ebooks/36307
